@@ -219,7 +219,7 @@ const EventsSection = () => {
                   </a>
 
                   <span className="text-[0.65rem] tracking-[0.2em] uppercase text-slate-100/75">
-                    3D • Live • 2025
+                    3D • Live • 2026
                   </span>
                 </div>
               </div>

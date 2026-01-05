@@ -93,7 +93,7 @@ const Footer = () => {
         </div>
 
         <h2 className="text-3xl font-extrabold tracking-wide text-white">
-          UMANG - 25
+          UMANG - 26
         </h2>
 
         <p className="text-sm text-slate-300">Hosted by</p>

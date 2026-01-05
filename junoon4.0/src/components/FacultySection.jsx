@@ -5,6 +5,10 @@ import Prashant from "../assets/team/technical/prashant.jpg";
 import Rakesh from "../assets/faculty/rakesh_sir.jpg";
 import Om from "../assets/faculty/om_sir.jpg";
 import Principal from "../assets/faculty/principal.jpg";
+import Avenash from "../assets/faculty/avenash.jpeg";
+import Alok from "../assets/faculty/alok.jpeg";
+import Nirbhay from "../assets/faculty/nirbhay.jpeg";
+import Dharmendra from "../assets/faculty/dharmendra.jpeg";
 const facultyData = [
   {
     title: "Principal",
@@ -24,7 +28,7 @@ const facultyData = [
     people: [
       {
         name: "Prof. Rakesh Kumar",
-        role: "Sports Head",
+        role: "Sports Incharge",
         img: Rakesh,          // add photo
         insta: "#",
         linkedin: "#",
@@ -32,12 +36,46 @@ const facultyData = [
       },
       {
         name: "Prof. Om Vats",
-        role: "Sports Head",
         img: Om,          // add photo
         insta: "#",
         linkedin: "#",
         facebook: "#",
       },
+      {
+        name: "Prof.Avenash Kumar",
+        img: Avenash,          // add photo
+        insta: "#",
+        linkedin: "#",
+        facebook: "#",
+      },
+      {
+        name: "Prof.Alok Kumar",
+        img: Alok,          // add photo
+        insta: "#",
+        linkedin: "#",
+        facebook: "#",
+      },
+      {
+        name: "Prof.Nirbhay Kumar",
+        img: Nirbhay,          // add photo
+        insta: "#",
+        linkedin: "#",
+        facebook: "#",
+      },
+      {
+        name: "Prof.Dharmendra Kumar",
+        img: Dharmendra,          // add photo
+        insta: "#",
+        linkedin: "#",
+        facebook: "#",
+      },
+      // {
+      //   name: "Prof.Nidhi Kumari",
+      //   img: Om,          // add photo
+      //   insta: "#",
+      //   linkedin: "#",
+      //   facebook: "#",
+      // },
     ],
   },
 ];

@@ -347,11 +347,11 @@ export default function ColorBends({
     uppercase
     bg-gradient-to-r from-sky-400 via-fuchsia-400 to-rose-400
     bg-clip-text text-transparent">
-      UMANG&apos; 25 • Sports Fest
+      UMANG&apos; 26 • Sports Fest
     </p>
 
     {/* main 3D heading */}
-    <h1 className="relative inline-block group text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
+    <h3 className="relative inline-block group text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
       {/* 3D shadow layer */}
       <span
         className="
@@ -381,7 +381,7 @@ export default function ColorBends({
       >
         JUNOON&nbsp;4.0
       </span>
-    </h1>
+    </h3>
 
     {/* subline */}
     <p className=" font-extrabold text-[1rem] sm:text-md md:text-base text-rose-800/80">

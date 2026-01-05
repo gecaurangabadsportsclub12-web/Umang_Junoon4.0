@@ -173,7 +173,7 @@ const SchedulePage = () => {
 
           {/* Footer */}
           <p className="mt-6 text-xs tracking-widest uppercase text-sky-300/80">
-            Junoon 4.0 • Sports Fest 2025
+            Junoon 4.0 • Sports Fest 2026
           </p>
         </div>
       </div>

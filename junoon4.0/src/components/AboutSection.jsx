@@ -10,7 +10,7 @@ const AboutSection = () => {
         {/* Heading */}
         <div className="max-w-3xl space-y-3">
           <p className="text-xs font-semibold uppercase tracking-[0.35em] text-sky-300/90">
-            About • Umang&apos;25 • Junoon 4.0
+            About • Umang&apos;26 • Junoon 4.0
           </p>
 
           <h2 className="text-3xl font-extrabold md:text-4xl lg:text-5xl">
@@ -28,7 +28,7 @@ const AboutSection = () => {
             . It is a celebration of energy, discipline and team spirit where
             students from all branches and years compete across multiple indoor
             and outdoor events under the banner of{" "}
-            <span className="text-rose-300 font-semibold">UMANG&apos;25</span>.
+            <span className="text-rose-300 font-semibold">UMANG&apos;26</span>.
           </p>
 
           <p className="text-sm md:text-base text-slate-300/80">

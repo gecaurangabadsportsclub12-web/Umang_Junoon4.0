@@ -269,10 +269,10 @@ const Navbar = () => {
         {/* LOGO */}
         <Link to="/" className="relative uppercase tracking-[0.25em]">
           <span className="absolute inset-0 translate-x-[2px] translate-y-[2px] text-sky-500/40 blur-sm">
-            JUNOON 4.0
+            UMANG'26
           </span>
           <span className="relative bg-gradient-to-r from-sky-400 via-fuchsia-400 to-rose-400 bg-clip-text text-transparent font-extrabold text-lg">
-            JUNOON 4.0
+            UMANG'26
           </span>
         </Link>
 
