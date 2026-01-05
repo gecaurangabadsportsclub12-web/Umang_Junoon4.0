@@ -38,7 +38,7 @@ const app = express();
 app.use(
   cors({
     origin: [
-    //   "http://localhost:5173",
+      "http://localhost:5173",
     "https://umangjunoon40.netlify.app",
       
     ],

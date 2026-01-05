@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://umang-junoon4-0.onrender.com/api",
+  baseURL: "https://umang-junoon4-0.onrender.com",
 });
 
 /* ================= SIGNUP ================= */
