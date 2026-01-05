@@ -37,23 +37,23 @@ const useReveal = () => {
   return { ref, visible };
 };
 
-// const coordinators = [
-//   {
-//     name: "Shiv Prakash",
-//     role: "Cricket Head",
-//     phone: "+91 98765 43210",
-//   },
-//   {
-//     name: "Ankit Kumar",
-//     role: "Fixture & Scorer",
-//     phone: "+91 98765 43211",
-//   },
-//   {
-//     name: "Murari",
-//     role: "Logistics & Umpire Desk",
-//     phone: "+91 98765 43212",
-//   },
-// ];
+const coordinators = [
+  {
+    name: "Shiv Prakash",
+    role: "Cricket Head",
+    phone: "+91 98765 43210",
+  },
+  {
+    name: "Ankit Kumar",
+    role: "Fixture & Scorer",
+    phone: "+91 98765 43211",
+  },
+  {
+    name: "Murari",
+    role: "Logistics & Umpire Desk",
+    phone: "+91 98765 43212",
+  },
+];
 
 const Cricket = () => {
   const header = useReveal();
@@ -213,7 +213,7 @@ const Cricket = () => {
         </section>
 
         {/* Coordinator section */}
-        {/* <section
+        <section
           ref={coord.ref}
           className={`mt-8 space-y-4 transition-all duration-700 ${
             coord.visible
@@ -246,7 +246,7 @@ const Cricket = () => {
               </div>
             ))}
           </div>
-        </section> */}
+        </section>
       </div>
 
       {/* 📸 Previous Cricket Highlights */}

@@ -213,7 +213,7 @@ const Cricket = () => {
         </section>
 
         {/* Coordinator section */}
-        {/* <section
+        <section
           ref={coord.ref}
           className={`mt-8 space-y-4 transition-all duration-700 ${
             coord.visible
@@ -246,7 +246,7 @@ const Cricket = () => {
               </div>
             ))}
           </div>
-        </section> */}
+        </section>
       </div>
 
       {/* 📸 Previous Cricket Highlights */}
