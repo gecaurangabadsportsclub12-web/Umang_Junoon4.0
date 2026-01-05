@@ -33,9 +33,9 @@ import ArmWrestling from "./pages/sports/armwrestling";
 import TugofWar from "./pages/sports/tugofwar";
 import Carrom from "./pages/sports/carrom";
 
-import Login from "./pages/Login";
-import Signup from "./pages/Signup";
-import PrivateRoute from "./routes/PrivateRoute";
+// import Login from "./pages/Login";
+// import Signup from "./pages/Signup";
+// import PrivateRoute from "./routes/PrivateRoute";
 
 import SportsLoader from "./components/SportsLoader";
 
@@ -115,7 +115,7 @@ const App = () => {
         <Route path="/developer" element={<DeveloperPage />} />
 
         {/* ⭐ SPORTS ROUTES ⭐ */}
-        {/* <Route path="/sports/cricket" element={<Cricket />} />
+        <Route path="/sports/cricket" element={<Cricket />} />
         <Route path="/sports/volleyball" element={<Volleyball />} />
         <Route path="/sports/football" element={<Football />} />
         <Route path="/sports/badminton" element={<Badminton />} />
@@ -125,14 +125,15 @@ const App = () => {
         <Route path="/sports/athletics" element={<Athletics />} />
         <Route path="/sports/tt" element={<TableTennis />} />
         <Route path="/sports/armwrestling" element={<ArmWrestling />} />
-        <Route path="/sports/tugofwar" element={<TugofWar />} /> */}
+        <Route path="/sports/tugofwar" element={<TugofWar />} />
+    <Route path="/sports/carrom" element={<Carrom />} />
 
 {/* AUTH */}
-        <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
+        {/* <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} /> */}
 
 {/* 🔒 PROTECTED SPORTS */}
-  <Route element={<PrivateRoute />}>
+  {/* <Route element={<PrivateRoute />}>
     <Route path="/sports/cricket" element={<Cricket />} />
     <Route path="/sports/football" element={<Football />} />
     <Route path="/sports/volleyball" element={<Volleyball />} />
@@ -145,7 +146,7 @@ const App = () => {
     <Route path="/sports/armwrestling" element={<ArmWrestling />} />
     <Route path="/sports/tugofwar" element={<TugofWar />} />
     <Route path="/sports/carrom" element={<Carrom />} />
-  </Route>
+  </Route> */}
 
 
       </Routes>

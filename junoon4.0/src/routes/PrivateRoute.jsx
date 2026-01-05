@@ -1,21 +1,21 @@
-import { Navigate, Outlet, useLocation } from "react-router-dom";
+// import { Navigate, Outlet, useLocation } from "react-router-dom";
 
-const PrivateRoute = () => {
-  const location = useLocation();
+// const PrivateRoute = () => {
+//   const location = useLocation();
 
-  const token = localStorage.getItem("token");
+//   const token = localStorage.getItem("token");
 
-  if (!token) {
-    return (
-      <Navigate
-        to="/signup"
-        replace
-        state={{ from: location.pathname }}
-      />
-    );
-  }
+//   if (!token) {
+//     return (
+//       <Navigate
+//         to="/signup"
+//         replace
+//         state={{ from: location.pathname }}
+//       />
+//     );
+//   }
 
-  return <Outlet />;
-};
+//   return <Outlet />;
+// };
 
-export default PrivateRoute;
+// export default PrivateRoute;
