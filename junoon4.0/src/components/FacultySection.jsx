@@ -42,28 +42,28 @@ const facultyData = [
         facebook: "#",
       },
       {
-        name: "Prof.Avenash Kumar",
+        name: "Prof. Avenash Kumar",
         img: Avenash,          // add photo
         insta: "#",
         linkedin: "#",
         facebook: "#",
       },
       {
-        name: "Prof.Alok Kumar",
+        name: "Prof. Alok Kumar",
         img: Alok,          // add photo
         insta: "#",
         linkedin: "#",
         facebook: "#",
       },
       {
-        name: "Prof.Nirbhay Kumar",
+        name: "Prof. Nirbhay Kumar",
         img: Nirbhay,          // add photo
         insta: "#",
         linkedin: "#",
         facebook: "#",
       },
       {
-        name: "Prof.Dharmendra Kumar",
+        name: "Prof. Dharmendra Kumar",
         img: Dharmendra,          // add photo
         insta: "#",
         linkedin: "#",

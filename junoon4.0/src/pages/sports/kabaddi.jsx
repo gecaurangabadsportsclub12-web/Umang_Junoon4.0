@@ -106,7 +106,7 @@ const Cricket = () => {
         >
           {/* Register */}
           <a
-            href="https://forms.gle/your-cricket-google-form"
+            href="https://forms.gle/h9SdeAQeSh5w2NKe7"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -331,7 +331,7 @@ const Cricket = () => {
 
       {/* 📌 Floating register button (always visible) */}
       <a
-        href="https://forms.gle/your-cricket-google-form"
+        href="https://forms.gle/h9SdeAQeSh5w2NKe7"
         target="_blank"
         rel="noopener noreferrer"
         className="

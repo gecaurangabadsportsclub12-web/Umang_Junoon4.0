@@ -106,7 +106,7 @@ const Cricket = () => {
         >
           {/* Register */}
           <a
-            href="https://forms.gle/your-cricket-google-form"
+            href="https://forms.gle/3mgsiCj2dfWWG8dBA"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -119,6 +119,21 @@ const Cricket = () => {
           >
             <FiExternalLink />
             Register (Google Form)
+          </a>
+          <a
+            href="https://forms.gle/p1eWqwFjLsvQ9snZ9"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="
+              inline-flex items-center gap-2 
+              px-6 py-2 rounded-full font-semibold text-sm
+              bg-gradient-to-r from-sky-500 via-fuchsia-500 to-rose-500
+              text-black shadow-[0_0_20px_rgba(236,72,153,0.6)]
+              hover:scale-105 active:scale-95 transition
+            "
+          >
+            <FiExternalLink />
+            Register (Mixed Duo)
           </a>
 
           {/* Rulebook */}
@@ -330,7 +345,7 @@ const Cricket = () => {
 
       {/* 📌 Floating register button (always visible) */}
       <a
-        href="https://forms.gle/your-cricket-google-form"
+        href="https://forms.gle/3mgsiCj2dfWWG8dBA"
         target="_blank"
         rel="noopener noreferrer"
         className="
