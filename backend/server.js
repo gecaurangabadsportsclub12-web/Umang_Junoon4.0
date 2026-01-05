@@ -38,9 +38,9 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "http://localhost:5173",
-      "https://umangjunoon4.netlify.app",
-      "https://umang26junoon4.netlify.app",
+    //   "http://localhost:5173",
+    "https://umangjunoon40.netlify.app",
+      
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
