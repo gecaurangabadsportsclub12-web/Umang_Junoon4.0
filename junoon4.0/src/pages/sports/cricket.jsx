@@ -106,7 +106,7 @@ const Cricket = () => {
         >
           {/* Register */}
           <a
-            href="https://forms.gle/your-cricket-google-form"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSc-PByCJ51C6RjnU3UxaTkTglsqp4N20rAbkdrEIT5ScAxvxQ/viewform?usp=dialog"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -139,7 +139,7 @@ const Cricket = () => {
         </div>
 
         {/* 🗓 Event Schedule – MULTI IMAGE SCROLLABLE */}
-        <section
+        {/* <section
           ref={schedule.ref}
           className={`transition-all duration-700 ${
             schedule.visible
@@ -153,9 +153,9 @@ const Cricket = () => {
       bg-white/5 border border-white/10
       shadow-[0_0_35px_rgba(0,0,0,0.7)]
     "
-          >
+          > */}
             {/* header strip */}
-            <div className="flex items-center gap-3 px-6 py-4 bg-gradient-to-r from-sky-600 to-fuchsia-600/80">
+            {/* <div className="flex items-center gap-3 px-6 py-4 bg-gradient-to-r from-sky-600 to-fuchsia-600/80">
               <div className="flex h-8 w-8 items-center justify-center rounded-full bg-black/20">
                 <FiCalendar className="text-sky-100" />
               </div>
@@ -167,10 +167,10 @@ const Cricket = () => {
                   Full match schedules • swipe to explore
                 </p>
               </div>
-            </div>
+            </div> */}
 
             {/* 🔥 Scroll container */}
-            <div
+            {/* <div
               className="
         flex gap-4 p-4 
         overflow-x-auto
@@ -195,10 +195,10 @@ const Cricket = () => {
                     src={src}
                     alt="Match schedule"
                     className="w-full h-auto object-contain"
-                  />
+                  /> */}
 
                   {/* glow */}
-                  <div
+                  {/* <div
                     className="
             absolute -inset-2 -z-10
             bg-gradient-to-br from-sky-500/30 via-fuchsia-500/30 to-rose-500/30
@@ -210,7 +210,25 @@ const Cricket = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
+
+
+<h1
+  className="
+    text-center
+    text-3xl sm:text-4xl md:text-5xl lg:text-6xl
+    font-extrabold uppercase tracking-wider
+    bg-gradient-to-r from-sky-400 via-fuchsia-400 to-rose-400
+    bg-clip-text text-transparent
+    drop-shadow-[0_0_20px_rgba(236,72,153,0.7)]
+    transition-all duration-300
+    hover:scale-105
+    hover:drop-shadow-[0_0_40px_rgba(56,189,248,0.9)]
+  "
+>
+  schedule Pubilsh SOON
+</h1>
+
 
         {/* Coordinator section */}
         <section
@@ -316,7 +334,7 @@ const Cricket = () => {
 
       {/* 📌 Floating register button (always visible) */}
       <a
-        href="https://forms.gle/your-cricket-google-form"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSc-PByCJ51C6RjnU3UxaTkTglsqp4N20rAbkdrEIT5ScAxvxQ/viewform?usp=dialog"
         target="_blank"
         rel="noopener noreferrer"
         className="
