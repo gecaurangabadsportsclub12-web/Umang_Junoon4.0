@@ -25,7 +25,14 @@ import Ranjan from "../assets/team/kabaddi/ranjan.jpg";
 import Piyush from "../assets/team/kabaddi/piyush.jpeg";
 import Akhilesh from "../assets/team/kabaddi/abhinav.jpeg";
 import Abhinav from "../assets/team/kabaddi/akhilesh.jpeg";
+//volleyball//
+import Arun from "../assets/team/volleyball/arun.jpeg";
 
+//badminton//
+import Rohan from "../assets/team/badminton/rohan.jpeg";
+import Sujeet from "../assets/team/badminton/sujeet.png";
+import Anjum from "../assets/team/badminton/anjum.jpeg";
+import AnjaliPrakash from "../assets/team/badminton/anjali.jpeg";
 
 
 
@@ -112,14 +119,6 @@ const teamData = [
       },
       {
         name: "Pranav Kumar",
-        whatsapp: "9876543228",
-        insta: "#",
-        linkedin: "#",
-        img: heroImg,
-      },
-      {
-        name: "Anjum ",
-        role: "Coordinator",
         whatsapp: "9876543228",
         insta: "#",
         linkedin: "#",
@@ -273,7 +272,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Arun,
       },
       {
         name: "Ishika Raj ",
@@ -304,7 +303,7 @@ const teamData = [
         whatsapp: "9876543219",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Rohan,
       },
       {
         name: "Sujeet Kumar",
@@ -313,7 +312,7 @@ const teamData = [
         whatsapp: "9876543220",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Sujeet,
       },
       {
         name: "Aayan Atharv",
@@ -321,7 +320,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Aayan,
       },
       {
         name: "Ankit Kumar",
@@ -329,7 +328,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Ankit,
       },
       {
         name: "Shiv Prakash",
@@ -337,7 +336,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Shiv,
       },
       {
         name: "Anjali Prakash",
@@ -345,7 +344,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: AnjaliPrakash,
       },
       {
         name: "Anjum ",
@@ -353,7 +352,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Anjum,
       },
     ],
   },
@@ -369,7 +368,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Shivam,
       },
       {
         name: "Aayan Atharv",
@@ -377,7 +376,7 @@ const teamData = [
         whatsapp: "9876543222",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Aayan,
       },
       {
         name: "Mehak ",
@@ -395,12 +394,12 @@ const teamData = [
     sectionId: "e-sports",
     people: [
       {
-        name: "Shiv Prakash",
+        name: "Manish Kumar",
         role: "Coordinator",
         whatsapp: "9876543223",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Shiv,
       },
       {
         name: "Rohan Kumar",
@@ -408,7 +407,7 @@ const teamData = [
         whatsapp: "9876543224",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Rohan,
       },
       {
         name: "Raushan Kumar",
@@ -424,7 +423,7 @@ const teamData = [
         whatsapp: "9876543224",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Akash,
       },
     ],
   },
