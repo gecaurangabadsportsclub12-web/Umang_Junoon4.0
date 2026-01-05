@@ -34,6 +34,19 @@ import Sujeet from "../assets/team/badminton/sujeet.png";
 import Anjum from "../assets/team/badminton/anjum.jpeg";
 import AnjaliPrakash from "../assets/team/badminton/anjali.jpeg";
 
+//athlete//
+import Anjit from "../assets/team/athlete/anjit.jpeg";
+import Vikash from "../assets/team/athlete/vikash.jpeg";
+import Murari from "../assets/team/cricket/murari.jpeg";
+
+//arm//
+import Indrejeet from "../assets/team/arm/inderjeet.jpeg";
+import Faiz from "../assets/team/arm/faiz.jpeg";
+
+//tug of war//
+import AkashRanjan from "../assets/team/tug of war/akashranjan.jpeg";
+import Kundan from "../assets/team/tug of war/kundan.jpeg";
+
 
 
 
@@ -175,7 +188,7 @@ const teamData = [
         whatsapp: "XXXXXXXXXXX",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Murari,
       },
       {
         name: "Sonali Kumari",
@@ -550,7 +563,7 @@ const teamData = [
         whatsapp: "9876543227",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Anjit,
       },
       {
         name: "Raushan kumar",
@@ -568,7 +581,7 @@ const teamData = [
         whatsapp: "9876543227",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Vikash,
       },
       {
         name: "Ayush kumar",
@@ -586,7 +599,7 @@ const teamData = [
         whatsapp: "9876543227",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Murari,
       },
       {
         name: "Priyanshu kumari",
@@ -625,7 +638,7 @@ const teamData = [
         whatsapp: "9876543228",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Anjum,
       },
     ],
   },
@@ -679,7 +692,7 @@ const teamData = [
         whatsapp: "9876543210",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Faiz,
       },
       {
         name: "Indrajeet Kumar",
@@ -687,7 +700,7 @@ const teamData = [
         whatsapp: "9876543211",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Indrejeet,
       },
       {
         name: "Unnati Kumar",
@@ -719,7 +732,7 @@ const teamData = [
         whatsapp: "9876543211",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: AkashRanjan,
       },
       {
         name: "Kundan Kumar",
@@ -728,7 +741,7 @@ const teamData = [
         whatsapp: "9876543212",
         insta: "#",
         linkedin: "#",
-        img: heroImg,
+        img: Kundan,
       },
       {
         name: "Unnati ",
