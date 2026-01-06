@@ -524,7 +524,7 @@ const teamData = [
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
-        img: Ankitj,
+        img: Mithun,
       },
     ],
   },
