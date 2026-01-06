@@ -41,17 +41,14 @@ const coordinators = [
   {
     name: "Shiv Prakash",
     role: "Co-ordinator",
-    phone: "+91 825288190",
   },
   {
     name: "Ankit Kumar",
-    role: "Fixture & Scorer",
-    phone: "+91 98765 43211",
+    role: "Co-ordinator",
   },
   {
     name: "Murari",
-    role: "Logistics & Umpire Desk",
-    phone: "+91 98765 43212",
+    role: "Co-ordinator",
   },
 ];
 

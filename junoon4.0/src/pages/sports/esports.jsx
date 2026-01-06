@@ -40,18 +40,16 @@ const useReveal = () => {
 const coordinators = [
   {
     name: "Shiv Prakash",
-    role: "Cricket Head",
-    phone: "+91 98765 43210",
+    role: "Coordinator",
   },
   {
-    name: "Ankit Kumar",
-    role: "Fixture & Scorer",
-    phone: "+91 98765 43211",
+    name: "ROhan Kumar",
+    role: "Coordinator",
   },
   {
-    name: "Murari",
-    role: "Logistics & Umpire Desk",
-    phone: "+91 98765 43212",
+    name: "Raushan",
+    
+   
   },
 ];
 
