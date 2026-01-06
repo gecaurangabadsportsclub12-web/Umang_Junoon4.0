@@ -21,6 +21,7 @@ import Ajay from "../assets/team/technical/ajay.jpeg";
 import Riyaz from "../assets/team/technical/riyaz.jpeg";
 import Rajeev from "../assets/team/technical/rajeev.jpeg";
 import Pranav from "../assets/team/technical/pranav.jpeg";
+import Sauravj from "../assets/team/technical/saurav.jpeg";
 import heroImg from "../assets/hero/junoon_hero.png";
 
 import Shiv from "../assets/team/cricket/shiv.jpg";
@@ -92,6 +93,10 @@ import Unnati1 from "../assets/team/tug of war/unnati1.jpeg";
 //cricket
 import Sonali from "../assets/team/cricket/sonali.jpeg";
 import Bandana from "../assets/team/cricket/bandana.jpeg";
+import Ritick from "../assets/team/cricket/ritik.jpeg";
+import Abhi from "../assets/team/cricket/abhiraj.jpeg";
+import Aryan1 from "../assets/team/cricket/aryanj.jpeg";
+import Prince from "../assets/team/cricket/prince.jpeg";
 
 //tt///
 import Rahul from "../assets/team/tt/rahul.jpeg";
@@ -105,7 +110,8 @@ import RajAryan from "../assets/team/carrom/rajaryan.jpeg";
 import Aashique from "../assets/team/carrom/aashique.jpeg";
 import Aryan from "../assets/team/carrom/aryan.jpeg";
 import Abhishek from "../assets/team/carrom/abhishek.jpeg";
-// import Aashique from "../assets/team/carrom/aashique.jpeg";
+import Nishant from "../assets/team/carrom/nishant.jpeg";
+import Anuragj from "../assets/team/carrom/anuragj.jpeg";
 
 
 //esports//
@@ -186,6 +192,15 @@ const teamData = [
         whatsapp: "9999999999",
         email: "",
         img: Sagar,
+      },
+      {
+        name: "Saurav  ",
+        role: " Sub Coordinator",
+        insta: "#",
+        linkedin: "#",
+        whatsapp: "9999999999",
+        email: "",
+        img: Sauravj,
       },
       {
         name: "Ashutosh Kumar",
@@ -307,6 +322,70 @@ const teamData = [
         linkedin: "#",
         img: Bandana,
       },
+      {
+        name: "Ritick",
+        role: " Sub Coordinator",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Ritick,
+      },
+      {
+        name: "AbhiRaj",
+        role: " Coordinator",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Abhi,
+      },
+      {
+        name: "Ayush",
+        role: " Sub Coordinator",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Ayushj,
+      },
+      {
+        name: "Anshu Kumar",
+        role: " Member",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Anshu,
+      },
+      {
+        name: "Ashutosh Kumar",
+        role: " Member",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Ashutosh,
+      },
+      {
+        name: "Mithun Kumar",
+        role: " Member",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Mithun,
+      },
+      {
+        name: "Aryan Kumar",
+        role: " Member",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Aryan1,
+      },
+      {
+        name: "Prince Kumar",
+        role: " Member",
+        whatsapp: "XXXXXXXXXXX",
+        insta: "#",
+        linkedin: "#",
+        img: Prince,
+      },
     ],
   },
 
@@ -405,7 +484,7 @@ const teamData = [
         img: Mehak,
       },
       {
-        name: "Priyanshu ",
+        name: "Priyansh ",
         role: " Sub-Coordinator",
         whatsapp: "9999999999",
         insta: "#",
@@ -1013,7 +1092,7 @@ const teamData = [
         img: AnjaliPrakash,
       },
       {
-        name: "Priyanshu  ",
+        name: "Priyansh  ",
         role: " Sub Coordinator",
         whatsapp: "9876543229",
         insta: "#",
@@ -1021,12 +1100,20 @@ const teamData = [
         img: Priyanshuj,
       },
       {
-        name: "Nishant  ",
+        name: "Anurag Kumar  ",
+        role: " Sub Coordinator",
+        whatsapp: "9876543229",
+        insta: "#",
+        linkedin: "#",
+        img: Anuragj,
+      },
+      {
+        name: "Nishant Kumar",
         role: " Member",
         whatsapp: "9876543229",
         insta: "#",
         linkedin: "#",
-        img: Aryan,
+        img: Nishant,
       },
       {
         name: "Aryan  ",
