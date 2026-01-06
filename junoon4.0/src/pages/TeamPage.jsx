@@ -64,6 +64,11 @@ import Anjum from "../assets/team/badminton/anjum.jpeg";
 import AnjaliPrakash from "../assets/team/badminton/anjali.jpeg";
 import Ankitj from "../assets/team/badminton/ankitj.jpeg";
 import Sushant from "../assets/team/badminton/sushant.jpeg";
+import Ashish1 from "../assets/team/badminton/ashish1.jpeg";
+import Vishnu from "../assets/team/badminton/vishnu.jpeg";
+import Raunak from "../assets/team/badminton/raunak.jpeg";
+import Hariom from "../assets/team/badminton/hariom.jpeg";
+import Aditya from "../assets/team/badminton/aditya.jpeg";
 import Mithun from "../assets/team/badminton/mithun.jpeg";
 
 //athlete//
@@ -82,6 +87,7 @@ import Faiz from "../assets/team/arm/faiz.jpeg";
 //tug of war//
 import AkashRanjan from "../assets/team/tug of war/akashranjan.jpeg";
 import Kundan from "../assets/team/tug of war/kundan.jpeg";
+import Unnati1 from "../assets/team/tug of war/unnati1.jpeg";
 
 //cricket
 import Sonali from "../assets/team/cricket/sonali.jpeg";
@@ -348,8 +354,6 @@ const teamData = [
         whatsapp: "7367055728",
         insta: "https://www.instagram.com/prashantt_1718/",
         linkedin: "https://www.linkedin.com/in/prashantcoder/",
-        whatsapp: "7367055728",
-        email: "prashantkumarcse15@gmail.com",
         img: Prashant1,
       },
       {
@@ -535,6 +539,46 @@ const teamData = [
         insta: "#",
         linkedin: "#",
         img: Anjum,
+      },
+      {
+        name: "Ashish Kumar ",
+        role: "Sub Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Ashish1,
+      },
+      {
+        name: "Vishnu Kumar ",
+        role: " SubCoordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Vishnu,
+      },
+      {
+        name: "Hariom Prajapati  ",
+        role: "Sub Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Hariom,
+      },
+      {
+        name: "Raunak Kumar ",
+        role: " Sub Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Raunak,
+      },
+      {
+        name: "Aditya Kumar Bharti ",
+        role: "Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Aditya,
       },
       {
         name: "Anshu Kumar ",
@@ -1024,12 +1068,12 @@ const teamData = [
         img: Indrejeet,
       },
       {
-        name: "Unnati Kumar",
+        name: "Unnati Bhamini",
         role: "Coordinator",
         whatsapp: "9876543211",
         insta: "#",
         linkedin: "#",
-        img: Unnati,
+        img: Unnati1,
       },
       
     ],
@@ -1065,12 +1109,12 @@ const teamData = [
         img: Kundan,
       },
       {
-        name: "Unnati ",
+        name: "Unnati Bhamini",
         role: "Coordinator",
         whatsapp: "9876543212",
         insta: "#",
         linkedin: "#",
-        img: Unnati,
+        img: Unnati1,
       },
     ],
   },
