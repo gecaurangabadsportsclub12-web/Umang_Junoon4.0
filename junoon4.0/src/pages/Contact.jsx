@@ -85,7 +85,7 @@ const Contact = () => {
         <section className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
           {/* Email */}
           <a
-            href="mailto:umang25@gce.org"
+            href="mailto:prashantkumarcse15@gmail.com"
             className="
               group relative overflow-hidden rounded-3xl border border-white/10
               bg-white/5 backdrop-blur-xl
