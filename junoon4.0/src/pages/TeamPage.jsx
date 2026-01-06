@@ -619,7 +619,7 @@ const teamData = [
         whatsapp: "9876543224",
         insta: "#",
         linkedin: "#",
-        img: Anshu,
+        img: Saurav,
       },
     ],
   },
