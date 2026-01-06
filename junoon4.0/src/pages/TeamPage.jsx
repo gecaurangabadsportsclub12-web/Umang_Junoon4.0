@@ -51,6 +51,9 @@ import Saurav from "../assets/team/volleyball/saurav.jpeg";
 import Raushanj from "../assets/team/volleyball/raushan.jpeg";
 import Kundanj from "../assets/team/volleyball/kundan.jpeg";
 import Priyanshuj from "../assets/team/volleyball/priyanshu.jpeg";
+import Ayushj from "../assets/team/volleyball/ayush.jpeg";
+import Vishal from "../assets/team/volleyball/vishal.jpeg";
+import Pratham from "../assets/team/volleyball/pratham.jpeg";
 
 //badminton//
 import Rohan from "../assets/team/badminton/rohan.jpeg";
@@ -90,6 +93,12 @@ import Priyanjan from "../assets/team/tt/priyanjan.jpeg";
 import Avinash from "../assets/team/carrom/avinash.jpeg";
 import RajAryan from "../assets/team/carrom/rajaryan.jpeg";
 import Aashique from "../assets/team/carrom/aashique.jpeg";
+
+
+//esports//
+import Nikhil from "../assets/team/esports/nikhil.jpeg";
+import Baibhav from "../assets/team/esports/baibhav.jpeg";
+import Manish from "../assets/team/esports/manish.jpeg";
 
 
 
@@ -391,6 +400,30 @@ const teamData = [
         img: Priyanshuj,
       },
       {
+        name: "Pratham ",
+        role: " Sub-Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Pratham,
+      },
+      {
+        name: "Ayush Kumar",
+        role: " Sub-Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Ayushj,
+      },
+      {
+        name: "Vishal Kumar ",
+        role: " Sub-Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Vishal,
+      },
+      {
         name: "Ashutosh Kumar ",
         role: "Memebr",
         whatsapp: "9999999999",
@@ -595,7 +628,7 @@ const teamData = [
         whatsapp: "9876543224",
         insta: "#",
         linkedin: "#",
-        img: Raushan,
+        img: Manish,
       },
       {
         name: "Akash Kumar",
@@ -604,6 +637,22 @@ const teamData = [
         insta: "#",
         linkedin: "#",
         img: Akash,
+      },
+      {
+        name: "Nikhil ",
+        role: "Sub Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Nikhil,
+      },
+      {
+        name: "Baibhav Dutta ",
+        role: "Sub Coordinator",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Baibhav,
       },
       {
         name: "Anshu Kumar",
@@ -962,6 +1011,7 @@ const TeamPage = () => {
     { id: "kabaddi", label: "Kabaddi" },
     { id: "athletics", label: "Athletics" },
     { id: "tt", label: "Table Tennis" },
+    { id: "carrom", label: "Carrom" },
     { id: "armwrestling", label: "Arm Wrestling" },
     { id: "tugofwar", label: "Tug of War" },
   ];
