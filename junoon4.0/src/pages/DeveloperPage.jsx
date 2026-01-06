@@ -32,7 +32,7 @@ import {
   SiMongodb,
 } from "react-icons/si";
 import { TbApi } from "react-icons/tb";
-import Prashant from "../assets/team/technical/prashant.jpg";
+import Prashant from "../assets/team/technical/prashant1.jpeg";
 
 const DeveloperPage = () => {
   const [tilt, setTilt] = useState(false);
@@ -149,7 +149,7 @@ const DeveloperPage = () => {
                   alt="Prashant Kumar"
                   className="
                     relative
-                    w-32 h-32 mx-auto rounded-2xl object-cover 
+                    w-40 h-40 mx-auto rounded-2xl object-cover 
                     border border-white/30 
                     shadow-[0_0_25px_rgba(255,255,255,0.35)]
                   "

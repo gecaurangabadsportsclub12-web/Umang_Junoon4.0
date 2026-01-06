@@ -39,6 +39,8 @@ import Ranjan from "../assets/team/kabaddi/ranjan.jpg";
 import Piyush from "../assets/team/kabaddi/piyush.jpeg";
 import Akhilesh from "../assets/team/kabaddi/akhilesh.jpeg";
 import Abhinav from "../assets/team/kabaddi/abhinav.jpeg";
+import Ashutosh1 from "../assets/team/kabaddi/ashutosh1.jpeg";
+import Hare from "../assets/team/kabaddi/harekrishna.jpeg";
 //volleyball//
 import Arun from "../assets/team/volleyball/arun.jpeg";
 import Mehak from "../assets/team/volleyball/mehak.jpeg";
@@ -88,15 +90,20 @@ import Bandana from "../assets/team/cricket/bandana.jpeg";
 //tt///
 import Rahul from "../assets/team/tt/rahul.jpeg";
 import Priyanjan from "../assets/team/tt/priyanjan.jpeg";
+import Abhiskekm from "../assets/team/tt/abhishekm.jpeg";
+import Rahulj from "../assets/team/tt/rahulj.jpeg";
 
 //carrom///
 import Avinash from "../assets/team/carrom/avinash.jpeg";
 import RajAryan from "../assets/team/carrom/rajaryan.jpeg";
 import Aashique from "../assets/team/carrom/aashique.jpeg";
+import Aryan from "../assets/team/carrom/aryan.jpeg";
+import Abhishek from "../assets/team/carrom/abhishek.jpeg";
+// import Aashique from "../assets/team/carrom/aashique.jpeg";
 
 
 //esports//
-import Nikhil from "../assets/team/esports/nikhil.jpeg";
+import Nikhil from "../assets/team/esports/nikhil1.jpeg";
 import Baibhav from "../assets/team/esports/baibhav.jpeg";
 import Manish from "../assets/team/esports/manish.jpeg";
 
@@ -341,7 +348,9 @@ const teamData = [
         whatsapp: "7367055728",
         insta: "https://www.instagram.com/prashantt_1718/",
         linkedin: "https://www.linkedin.com/in/prashantcoder/",
-        img: Prashant,
+        whatsapp: "7367055728",
+        email: "prashantkumarcse15@gmail.com",
+        img: Prashant1,
       },
       {
         name: "Karan Kumar",
@@ -670,6 +679,14 @@ const teamData = [
         linkedin: "#",
         img: Saurav,
       },
+      {
+        name: "Hare Krishan",
+        role: "Member",
+        whatsapp: "9876543224",
+        insta: "#",
+        linkedin: "#",
+        img: Hare,
+      },
     ],
   },
 
@@ -781,6 +798,22 @@ const teamData = [
         linkedin: "#",
         img: Ankush,
       },
+      {
+        name: " Ashutosh Singh ",
+        role: "Member",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Ashutosh1,
+      },
+      {
+        name: " Hare Krishna ",
+        role: "Member",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Hare,
+      },
     ],
   },
 
@@ -880,6 +913,22 @@ const teamData = [
         linkedin: "#",
         img: Anjum,
       },
+      {
+        name: "Abhiskek Mourya ",
+        role: "Sub Coordinator",
+        whatsapp: "9876543228",
+        insta: "#",
+        linkedin: "#",
+        img: Abhiskekm,
+      },
+      {
+        name: "Rahul Kumar ",
+        role: "Sub Coordinator",
+        whatsapp: "9876543228",
+        insta: "#",
+        linkedin: "#",
+        img: Rahulj,
+      },
     ],
   },
 
@@ -918,6 +967,38 @@ const teamData = [
         insta: "#",
         linkedin: "#",
         img: AnjaliPrakash,
+      },
+      {
+        name: "Priyanshu  ",
+        role: " Sub Coordinator",
+        whatsapp: "9876543229",
+        insta: "#",
+        linkedin: "#",
+        img: Priyanshuj,
+      },
+      {
+        name: "Nishant  ",
+        role: " Member",
+        whatsapp: "9876543229",
+        insta: "#",
+        linkedin: "#",
+        img: Aryan,
+      },
+      {
+        name: "Aryan  ",
+        role: " Member",
+        whatsapp: "9876543229",
+        insta: "#",
+        linkedin: "#",
+        img: Aryan,
+      },
+      {
+        name: "Abhishek  ",
+        role: "Member",
+        whatsapp: "9876543229",
+        insta: "#",
+        linkedin: "#",
+        img: Abhishek,
       },
     ],
   },
