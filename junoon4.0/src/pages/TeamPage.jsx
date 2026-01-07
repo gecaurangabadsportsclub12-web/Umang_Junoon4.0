@@ -1210,7 +1210,7 @@ const teamData = [
         whatsapp: "9876543229",
         insta: "#",
         linkedin: "#",
-        img: Ansh,
+        img: Faruk,
       },
       {
         name: "Ansh  ",
@@ -1218,7 +1218,7 @@ const teamData = [
         whatsapp: "9876543229",
         insta: "#",
         linkedin: "#",
-        img: Faruk,
+        img: Ansh,
       },
     ],
   },
