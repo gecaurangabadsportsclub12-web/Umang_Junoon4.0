@@ -16,14 +16,14 @@ import Anshu from "../assets/team/technical/anshu.jpeg";
 import Utsav from "../assets/team/technical/utsav.jpeg";
 import Anurag from "../assets/team/technical/anurag.jpeg";
 import Sagar from "../assets/team/technical/sagar.jpeg";
-import Rohit from "../assets/team/technical/rohit.jpeg";
-import Ajay from "../assets/team/technical/ajay.jpeg";
+import Rohit from "../assets/team/technical/rohit1.jpeg";
+import Ajay from "../assets/team/technical/ajay1.jpeg";
 import Riyaz from "../assets/team/technical/riyaz.jpeg";
 import Rajeev from "../assets/team/technical/rajeev.jpeg";
 import Pranav from "../assets/team/technical/pranav.jpeg";
 import Sauravj from "../assets/team/technical/saurav.jpeg";
 import heroImg from "../assets/hero/junoon_hero.png";
-
+  
 import Shiv from "../assets/team/cricket/shiv.jpg";
 import Ankit from "../assets/team/cricket/ankit.jpeg";
 import Aayan from "../assets/team/cricket/aayan.jpeg";
@@ -71,6 +71,7 @@ import Raunak from "../assets/team/badminton/raunak.jpeg";
 import Hariom from "../assets/team/badminton/hariom.jpeg";
 import Aditya from "../assets/team/badminton/aditya.jpeg";
 import Mithun from "../assets/team/badminton/mithun.jpeg";
+import Om from "../assets/team/badminton/om.jpeg";
 
 //athlete//
 import Anjit from "../assets/team/athlete/anjit.jpeg";
@@ -341,7 +342,7 @@ const teamData = [
       },
       {
         name: "AbhiRaj",
-        role: " Coordinator",
+        role: "Sub Coordinator",
         whatsapp: "XXXXXXXXXXX",
         insta: "#",
         linkedin: "#",
@@ -662,7 +663,7 @@ const teamData = [
       },
       {
         name: "Aditya Kumar Bharti ",
-        role: "Coordinator",
+        role: " Sub-Coordinator",
         whatsapp: "9999999999",
         insta: "#",
         linkedin: "#",
@@ -699,6 +700,14 @@ const teamData = [
         insta: "#",
         linkedin: "#",
         img: Mithun,
+      },
+      {
+        name: "Om Dubey ",
+        role: "Memeber",
+        whatsapp: "9999999999",
+        insta: "#",
+        linkedin: "#",
+        img: Om,
       },
     ],
   },
