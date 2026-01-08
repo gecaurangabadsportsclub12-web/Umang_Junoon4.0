@@ -8,6 +8,15 @@ import Chess from "../assets/schedule/chess.png";
 import Carrom from "../assets/schedule/carrom.png";
 import TT from "../assets/schedule/tt.png";
 import Timing from "../assets/schedule/timing.jpeg";
+import volleyballBoys from "../assets/schedule/volleyballboys.jpeg";
+import volleyballGirls from "../assets/schedule/volleyballgirls.jpeg";
+import TugOfWarBoys from "../assets/schedule/tugofwarboys.jpeg";
+import TugOfWarGirls from "../assets/schedule/tugofwargirls.jpeg";
+import KabaddiBoys from "../assets/schedule/kabaddiboys.jpeg";
+import KabaddiGirls from "../assets/schedule/kabaddigirls.jpeg";
+import BadmintonBoys from "../assets/schedule/badmintonboys.jpeg";
+import BadmintonGirls from "../assets/schedule/badmintongirls.jpeg";
+import Timing9 from "../assets/schedule/TIMING9.jpeg";
 
 const schedules = [
   // {
@@ -18,18 +27,27 @@ const schedules = [
   //   title: "Football",
   //   images: [volleyballSchedule],
   // },
-  // {
-  //   title: "Volleyball",
-  //   images: [volleyballSchedule, volleyballSchedule],
-  // },
-  // {
-  //   title: "Badminton",
-  //   images: [volleyballSchedule],
-  // },
   {
     title: "Timing",
-    images: [Timing],
+    images: [Timing9,Timing],
   },
+  {
+    title: "Volleyball",
+    images: [volleyballBoys, volleyballGirls],
+  },
+  {
+    title: "Tug Of War",
+    images: [TugOfWarBoys,TugOfWarGirls],
+  },
+  {
+    title: "Kabaddi",
+    images: [KabaddiBoys,KabaddiGirls],
+  },
+  {
+    title: "Kabaddi",
+    images: [BadmintonBoys,BadmintonGirls],
+  },
+  
   {
     title: "Chess",
     images: [Chess],
