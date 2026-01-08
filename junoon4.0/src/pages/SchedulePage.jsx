@@ -44,7 +44,7 @@ const schedules = [
     images: [KabaddiBoys,KabaddiGirls],
   },
   {
-    title: "Kabaddi",
+    title: "Badminton",
     images: [BadmintonBoys,BadmintonGirls],
   },
   
