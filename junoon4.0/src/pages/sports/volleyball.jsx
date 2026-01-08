@@ -9,7 +9,8 @@ import {
   FiPhone,
 } from "react-icons/fi";
 
-import cricketScheduleImg from "../../assets/schedule/volleyball.png";
+import Volleyballboys from "../../assets/schedule/volleyballboys.jpeg";
+import  volleyballgirls from "../../assets/schedule/volleyballgirls.jpeg";
 
 /* Small hook for scroll-reveal */
 const useReveal = () => {
@@ -139,7 +140,7 @@ const Cricket = () => {
         </div>
 
         {/* 🗓 Event Schedule – MULTI IMAGE SCROLLABLE */}
-        {/* <section
+        <section
           ref={schedule.ref}
           className={`transition-all duration-700 ${
             schedule.visible
@@ -153,9 +154,9 @@ const Cricket = () => {
       bg-white/5 border border-white/10
       shadow-[0_0_35px_rgba(0,0,0,0.7)]
     "
-          > */}
+          >
             {/* header strip */}
-            {/* <div className="flex items-center gap-3 px-6 py-4 bg-gradient-to-r from-sky-600 to-fuchsia-600/80">
+            <div className="flex items-center gap-3 px-6 py-4 bg-gradient-to-r from-sky-600 to-fuchsia-600/80">
               <div className="flex h-8 w-8 items-center justify-center rounded-full bg-black/20">
                 <FiCalendar className="text-sky-100" />
               </div>
@@ -167,10 +168,10 @@ const Cricket = () => {
                   Full match schedules • swipe to explore
                 </p>
               </div>
-            </div> */}
+            </div>
 
             {/* 🔥 Scroll container */}
-            {/* <div
+            <div
               className="
         flex gap-4 p-4 
         overflow-x-auto
@@ -178,7 +179,7 @@ const Cricket = () => {
       "
               style={{ scrollSnapType: "x mandatory" }}
             >
-              {[cricketScheduleImg, cricketScheduleImg].map((src, idx) => (
+              {[Volleyballboys, volleyballgirls].map((src, idx) => (
                 <div
                   key={idx}
                   className="
@@ -195,10 +196,10 @@ const Cricket = () => {
                     src={src}
                     alt="Match schedule"
                     className="w-full h-auto object-contain"
-                  /> */}
+                  />
 
                   {/* glow */}
-                  {/* <div
+                  <div
                     className="
             absolute -inset-2 -z-10
             bg-gradient-to-br from-sky-500/30 via-fuchsia-500/30 to-rose-500/30
@@ -210,10 +211,10 @@ const Cricket = () => {
               ))}
             </div>
           </div>
-        </section> */}
+        </section>
 
 
-<h1
+{/* <h1
   className="
     text-center
     text-3xl sm:text-4xl md:text-5xl lg:text-6xl
@@ -227,7 +228,7 @@ const Cricket = () => {
   "
 >
   schedule Pubilsh SOON
-</h1>
+</h1> */}
 
 
         {/* Coordinator section */}
