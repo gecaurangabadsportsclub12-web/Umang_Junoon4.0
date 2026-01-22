@@ -39,13 +39,13 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-    "https://umang-junoon4-0.vercel.app/",
-      
+      "https://umang-junoon4-0.vercel.app"
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
 );
+
 
 app.use(express.json());
 
