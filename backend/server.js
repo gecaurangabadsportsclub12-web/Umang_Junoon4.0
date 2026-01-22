@@ -39,7 +39,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-    "https://umangjunoon40.netlify.app",
+    "https://umang-junoon4-0.vercel.app/",
       
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
